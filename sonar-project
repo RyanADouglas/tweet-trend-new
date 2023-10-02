@@ -1,7 +1,7 @@
 sonar.verbose=true
 sonar.organization=ryanadouglas
 sonar.projectKey=ryanadouglas_twittertrend
-sonar.projectName=twittertrend
+sonar.projectName=tw ittertrend
 sonar.language=java
 sonar.sourceEncoding=UTF-8
 sonar.source=.
